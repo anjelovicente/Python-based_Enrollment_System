@@ -1,0 +1,24 @@
+NO. COURSE CODE 	SECTION 	UNITS 	DAY(S) 		TIME 		ROOM 		FACULTY
+1. 	BASCHEM 		EQ1 		3 		TH 			1245-1415 	MM13 	GUIDOTE, LOURDES
+2. 	BASPHYS 		EQ1 		3 		TH 			1430-1530 	MM13 	OPHELIA, CHRISTINE
+3. 	FNDMATH 		EQ1 		5 		WF 			0730-1030 	MM13 	HALILI JR., MAURICIO
+4. 	FNDSTAT 		EQ1 		3 		WF 			1100-1200 	MM13 	KALAW, MARTIN
+Total Units:            14.00
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+TYPES OF FEES 			ASSESSMENT 		
+Tuition 				45,500.00			
+Miscellaneous 			7,221.00
+Special Fees 			1000.00
+Development Fees 		2,520.00
+Adolescent Pers Test 	500.00
+Laboratory Fees 		0.00
+NSTP/ROTC Fee 			0.00
+ID Validation 			46.00
+Other Fees 				6,200.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ASSESSED AMOUNT				62,987.00
+OTHER FEES					0.00
+TOTAL AMOUNT DUE			62,987.00

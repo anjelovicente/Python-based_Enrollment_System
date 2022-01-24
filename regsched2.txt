@@ -1,0 +1,31 @@
+NO. COURSE CODE 	SECTION 	UNITS 	DAY(S) 		TIME 		ROOM 		FACULTY
+1. 	CALENG1 		EQ1 		3 		WF 			0730-0900 	MM21 	SORIANO, ALLAN NANA
+2. 	COEDISC 		EQ1 		1 		F 			1430-1530 	MM21 	MATERUM, LAWRENCE YASAY
+3. 	ENGCHEM 		EQ1 		3 		WF 			0915-1045 	MM21 	LAZARO-LLANOS, NANCY
+4. 	GEFTWEL 		EQ1 		2 		T 			1000-1200 	E1001 	CORDOVA, MA. SOCORRO GIGI VILLAMOR
+5. 	GEMATMW 		EQ1 		3 		TH 			1245-1415 	MM21 	TAN, MICHELE GO
+6. 	LBYCH1A 		EQ1 		1 		W 			1430-1730 	V409 	SY, JAMIE BERNADETTE ANG
+7. 	LBYCPA1 		EQ1 		2 		H 			1430-1730 	V310 	PADILLA, MARK LESTER FRANCISCO
+			      						M 			0730-1030 	V310
+8. 	LBYEC2A 		EQ1 		1 		T 			1430-1730 	V103 	PAKZAD, ARMIE ESGUERRA
+9. 	NSTPLT1 		ED 			3 		S 			1300-1600 	V308 	AMISTOSO, MARJORIE GUYONG
+10. PROLOGI 		EQ1 		2 		WF 			1100-1200 	MM21 	PAKZAD, ARMIE ESGUERRA
+Total Units:            21.00
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+TYPES OF FEES 			ASSESSMENT 			
+Tuition 				61,200.00			
+Miscellaneous 			7,221.00
+Special Fees 			300.00
+Development Fees 		2,000.00
+Adolescent Pers Test 	500.00
+Laboratory Fees 		10,800.00
+NSTP/ROTC Fee 			5,100.00
+ID Validation 			46.00
+Other Fees 				5,000.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ASSESSED AMOUNT				92,167.00
+OTHER FEES					0.00
+TOTAL AMOUNT DUE			92,167.00

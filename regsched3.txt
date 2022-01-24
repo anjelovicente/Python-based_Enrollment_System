@@ -1,0 +1,33 @@
+NO. COURSE CODE 	SECTION 	UNITS 	DAY(S) 		TIME 		ROOM 		FACULTY
+1.  NSTPLTS2        ED          3       S           1300-1600 	V308 	AMISTOSO, MARJORIE GUYONG
+2.  LCLSONE         EQ1         1
+3.  SAS1000         EQ1         0
+4.  GEFILI1         EQ1         3       TH 			1245-1415 	LS334 	GARCIA, FANNY
+5.  GEDANCE         EQ1         2       T           1000-1200 	E1001 	CONCEPCION, MARENCE IVAN
+6.  LASARE1         EQ1         0
+7.  ENGPHYS         EQ1         3       WF 			0915-1045 	MM22 	SEMIRA, JESSICA DAVE RED
+8.  LBYPH1A         EQ1         1       W           1430-1730 	V409 	REGACHO, RHENNIE ANNE SUVISSOR
+9.  CALENG2         EQ1         3       WF 			0730-0900 	MM22 	CABATO, MARXETTE DIANE GO
+10. LBYEC2B         EQ1         1       T 			1430-1730 	V103 	AGOO, JONATHAN A.
+11. LBYCPE1         EQ1         2       WF 			1100-1200 	V210 	SABULARSE, MATTHEW SIMON MOJICA
+12. ENGDATA         EQ1         3       TH          1430-1530   MM22    ELMUBARAK, ALI EMHAD
+Total Units:            22.00
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+TYPES OF FEES 			ASSESSMENT
+Tuition 				78,200.00
+Miscellaneous 			7,221.00
+Special Fees 			300.00
+Development Fees 		2,000.00
+Adolescent Pers Test 	500.00
+Laboratory Fees 		10,800.00
+NSTP/ROTC Fee 			5,100.00
+ID Validation 			46.00
+Other Fees 				4,500.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ASSESSED AMOUNT				108,667.00
+OTHER FEES					0.00
+TOTAL AMOUNT DUE			108,667.00
